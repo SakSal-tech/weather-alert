@@ -1,7 +1,7 @@
 import requests
 
 url = "https://api.openweathermap.org/data/2.5/weather"
-api_key = "8c38584889ca36d0bca30f35cdd15d4b"
+api_key = ""
 my_lat = 51.5072
 my_lon = -0.1276
 parameters = {
